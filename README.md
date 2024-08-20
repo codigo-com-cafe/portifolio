@@ -25,6 +25,7 @@ Plataforma para organização e gestão do Prêmio da Música Capixaba.
 Link para o site: https://www.premiodamusicacapixaba.com.br/
 ![image](https://github.com/user-attachments/assets/f70c5338-474b-4558-92d1-aa430fcec2d7)
 ![image](https://github.com/user-attachments/assets/403fb5e6-4ad8-4c74-a186-9745e055e8ff)
+![image](https://github.com/user-attachments/assets/32aeaa74-5418-44b6-9988-e15a13e1c8d1)
 
 ### 8. [SEQRSMART](https://github.com/codigo-com-cafe/seqrsmart_app)
 Aplicativo para leitura de QR Codes inteligentes.
