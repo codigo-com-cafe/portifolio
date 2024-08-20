@@ -22,6 +22,9 @@ Aplicativo para controle de estoque com escaneamento de código de barras.
 
 ### 7. [PRÊMIO DA MÚSICA CAPIXABA](https://github.com/codigo-com-cafe/premio-da-musica-capixaba)
 Plataforma para organização e gestão do Prêmio da Música Capixaba.
+Link para o site: https://www.premiodamusicacapixaba.com.br/
+![image](https://github.com/user-attachments/assets/f70c5338-474b-4558-92d1-aa430fcec2d7)
+![image](https://github.com/user-attachments/assets/403fb5e6-4ad8-4c74-a186-9745e055e8ff)
 
 ### 8. [SEQRSMART](https://github.com/codigo-com-cafe/seqrsmart_app)
 Aplicativo para leitura de QR Codes inteligentes.
