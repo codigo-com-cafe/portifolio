@@ -49,6 +49,7 @@ Sistema para gestão de pedidos, versão web.
 
 ### 16. [GB PROJETO 3D](https://github.com/codigo-com-cafe/gb_projeto_3d)
 Ferramenta para visualização e edição de modelos 3D de roupas.
+Link para o site: https://gb-projeto-3d.vercel.app/
 ![image](https://github.com/user-attachments/assets/af3cdf8f-affa-4da2-a2a7-087a8fe97954)
 ![image](https://github.com/user-attachments/assets/6542ee6e-4804-4395-a913-1183d6842163)
 
