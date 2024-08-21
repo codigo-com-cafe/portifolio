@@ -31,8 +31,7 @@ Link para o site: https://www.premiodamusicacapixaba.com.br/
 Aplicativo para leitura de QR Codes inteligentes.
 
 ### 9. [VETNERS APP](https://github.com/codigo-com-cafe/vetners_app)
-Aplicativo para gerenciamento de cuidados pet.
-Link do site: https://vetner.com.br/
+Aplicativo para gerenciamento de cuidados pet.Link do site: https://vetner.com.br/
 ![image](https://github.com/user-attachments/assets/54911306-2310-4d02-975a-8e97e7aa4120)
 
 ### 10. [PHOTO RECOGNIZED](https://github.com/codigo-com-cafe/app_photo_recognized)
