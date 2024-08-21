@@ -32,6 +32,8 @@ Aplicativo para leitura de QR Codes inteligentes.
 
 ### 9. [VETNERS APP](https://github.com/codigo-com-cafe/vetners_app)
 Aplicativo para gerenciamento de cuidados pet.
+Link do site: https://vetner.com.br/
+![image](https://github.com/user-attachments/assets/54911306-2310-4d02-975a-8e97e7aa4120)
 
 ### 10. [PHOTO RECOGNIZED](https://github.com/codigo-com-cafe/app_photo_recognized)
 Aplicativo para reconhecimento de imagens.
@@ -42,7 +44,7 @@ Aplicativo de realidade aumentada.
 ### 12. [INDOOH APP](https://github.com/codigo-com-cafe/indooh_app)
 Aplicativo para gerenciamento de mídia em carros de transporte por aplicativo.
 Link do site: https://indooh.com.br/
-![image](https://github.com/user-attachments/assets/c4b5c3c2-5243-40cd-a9e8-a5879592f498)
+![image](https://github.com/user-attachments/assets/a1a2280f-d0ca-4dbd-9e71-d612c03ddbec)
 
 ### 13. [UTI DOS GAMES](https://github.com/codigo-com-cafe/uti_games)
 Landingpage para uma empresa local..
