@@ -31,8 +31,8 @@ Link para o site: https://www.premiodamusicacapixaba.com.br/
 Aplicativo para leitura de QR Codes inteligentes.
 
 ### 9. [VETNERS APP](https://github.com/codigo-com-cafe/vetners_app)
-Aplicativo para gerenciamento de cuidados pet.Link do site: https://vetner.com.br/
-![c95215db-1e7b-40e9-bdc9-64d72f25e0a7](https://github.com/user-attachments/assets/d2525a66-923e-44d0-918e-a2fdafd3fa41)
+Aplicativo para gerenciamento de cuidados pet. Link do site: https://vetner.com.br/  
+![c95215db-1e7b-40e9-bdc9-64d72f25e0a7](https://github.com/user-attachments/assets/db8628d0-455a-4931-b0eb-57f965692f7d)
 
 ### 10. [PHOTO RECOGNIZED](https://github.com/codigo-com-cafe/app_photo_recognized)
 Aplicativo para reconhecimento de imagens.
@@ -43,7 +43,7 @@ Aplicativo de realidade aumentada.
 ### 12. [INDOOH APP](https://github.com/codigo-com-cafe/indooh_app)
 Aplicativo para gerenciamento de mídia em carros de transporte por aplicativo.
 Link do site: https://indooh.com.br/
-![image](https://github.com/user-attachments/assets/a1a2280f-d0ca-4dbd-9e71-d612c03ddbec)
+![5349b797-2c6a-4781-9b24-600f5e312cab](https://github.com/user-attachments/assets/1865a6ff-876e-4ef4-8d0a-eb2c4527901b)
 
 ### 13. [UTI DOS GAMES](https://github.com/codigo-com-cafe/uti_games)
 Landingpage para uma empresa local..
