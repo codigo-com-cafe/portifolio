@@ -32,7 +32,7 @@ Aplicativo para leitura de QR Codes inteligentes.
 
 ### 9. [VETNERS APP](https://github.com/codigo-com-cafe/vetners_app)
 Aplicativo para gerenciamento de cuidados pet.Link do site: https://vetner.com.br/
-![image](https://github.com/user-attachments/assets/54911306-2310-4d02-975a-8e97e7aa4120)
+![c95215db-1e7b-40e9-bdc9-64d72f25e0a7](https://github.com/user-attachments/assets/d2525a66-923e-44d0-918e-a2fdafd3fa41)
 
 ### 10. [PHOTO RECOGNIZED](https://github.com/codigo-com-cafe/app_photo_recognized)
 Aplicativo para reconhecimento de imagens.
