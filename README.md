@@ -17,6 +17,8 @@ Plataforma de gerenciamento de arquivos para Prefeituras..
 
 ### 4. [DATA GEOSIS](https://github.com/codigo-com-cafe/geosis_web2)
 Ferramenta para análise de dados geoespaciais.
+![image](https://github.com/user-attachments/assets/12f286e1-5716-42f6-a82e-acde8ff7d2dd)
+![image](https://github.com/user-attachments/assets/f0a85bec-b009-4171-aa80-59c2ecebb48c)
 
 ### 5. [JURISPRUDÊNCIACOMPILADA](https://github.com/codigo-com-cafe/jurisprudenciacompilada)
 Sistema Webscrapping voltado para a compilação de jurisprudências para consulta e estudo.
