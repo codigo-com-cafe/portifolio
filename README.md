@@ -9,6 +9,8 @@ Aplicativo de inteligência artificial para controle de calorias, baseado no esc
 
 ### 2. [MANGUEY APP](https://github.com/codigo-com-cafe/mangueyapp)
 Aplicativo voltado para um evento internacional que exibe produtos de uma determinada empresa.
+![image](https://github.com/user-attachments/assets/2e15654f-ca8b-4c99-8f57-837c8e17da54)
+
 
 ### 3. [COLINK](https://github.com/codigo-com-cafe/colink)
 Plataforma de gerenciamento de arquivos para Prefeituras..
