@@ -4,6 +4,8 @@ Aqui estão os projetos desenvolvidos pela equipe Código com Café:
 
 ### 1. [CAL IA APP](https://github.com/codigo-com-cafe/cal_ai)
 Aplicativo de inteligência artificial para controle de calorias, baseado no escaneamento de pratos .
+![5949c68e-9870-44b2-bc9b-c9c1fad16dbe](https://github.com/user-attachments/assets/0e0d35e1-a664-4ab4-a71d-ba5500b72845)
+![41dba777-eb3d-4df4-8c09-b88730784201](https://github.com/user-attachments/assets/9fb44dc9-3abc-4a3c-866e-296a7878d1a8)
 
 ### 2. [MANGUEY APP](https://github.com/codigo-com-cafe/mangueyapp)
 Aplicativo voltado para um evento internacional que exibe produtos de uma determinada empresa.
